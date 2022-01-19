@@ -1,0 +1,6 @@
+Utiliza la práctica anterior (HTML5 - 1) y reescribe todos los ejercicios usando:
+Etiquetas HTML semánticas en todos los puntos necesarios
+Etiquetas divisoras para separar cada una de las partes de la tarea que las etiquetas semánticas no cubran.
+Atributos id en todos los elementos que necesiten una aportación extra semántica, para su reutilización. 
+Una cabecera, barra de navegación y footer común a todos los ejercicios.
+Incluye los enlaces a todas las páginas que incluye el ejercicio en el NAV
