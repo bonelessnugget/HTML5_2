@@ -1,0 +1,48 @@
+embed{
+    width: 100%;
+}
+#bloque-links{
+    background-color: rgb(255, 255, 255);
+    border-radius: 7px;
+    text-align: center;
+    margin: 20px;
+    width: 25%;
+    height: 25%;
+}
+#bloque-links ul{
+    list-style-type:none;
+    text-decoration: none;
+    padding: 0%;
+
+}
+#bloque-links li {
+    padding: 10px;
+}
+
+#bloque-links ul li:hover{
+    background-color: rgb(226, 226, 226);
+    border-radius: 7px;
+    color: black;
+}
+#bloque-links a{
+    text-decoration: none;
+    color: black;
+}
+#bloque-links a:visited{
+    text-decoration: none;
+    color: black;
+}
+html{
+    background-color: rgb(66, 66, 66);
+}
+
+#bloque-links h3{
+    color: rgb(0, 0, 0);
+}
+
+#biblio{
+    background-color: rgba(83, 83, 83, 0.89);
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 15px;
+}
